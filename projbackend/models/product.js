@@ -39,4 +39,4 @@ const productSchema = new mongoose.Schema({
     }
 }, {timestamps: true})
 
-module.exports = mongoose.exports("Prodeuct", productSchema)
+module.exports = mongoose.exports("Product", productSchema)
